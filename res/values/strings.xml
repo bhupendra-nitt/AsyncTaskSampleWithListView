@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleAsyncTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="url">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>Image 7</item>
+        <item>Image 8</item>
+        <item>Image 9</item>
+        <item>Image 10</item>
+        <item>Image 11</item>
+        <item>Image 12</item>
+        <item>Image 13</item>
+        <item>Image 14</item>
+        <item>Image 15</item>
+    </string-array>
+    <string-array name="imageurls">
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+        <item>http://www.9ori.com/store/media/images/8ab579a656.jpg</item>
+    </string-array>
+
+</resources>
